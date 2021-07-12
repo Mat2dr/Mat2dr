@@ -32,7 +32,7 @@
 
 ### Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Reservia)](https://github.com/Mat2dr/DragovicMathias_P2_01062021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mat2dr&repo=DragovicMathias_P2_01062021)](https://github.com/Mat2dr/DragovicMathias_P2_01062021)
 
 
 [website]: https://mathiasdragovic.com/
