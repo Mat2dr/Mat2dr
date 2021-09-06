@@ -1,14 +1,14 @@
-### Hi there, I'm Mathias - aka [Mat2dr][website] 👋
+### Hello, je m'appelle Mathias - aka [Mat2dr][website] 👋
 
-## I'm a Student, Developer, and Cardist!!
+## Laissez-moi vous parler de moi grâce à 4 emojis :
 
-- 🌱 I’m currently a student in Front-end with Openclassrooms
-- 👯 I’m looking for an internship
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Photography/Filmmaking
+- 🌱 Je suis etudiant chez Openclassrooms en développement Front-end!!
+- 👯 À la recherche d'une alternance
+- 🥅 Goals pour 2021: Faire plus de projets et partager sur Github.
+- ⚡ Fun fact: J'ai d'autre passions comme la photographie, filmmaking...
 
 
-### Connect with me:
+### Se connecter :
 
 [<img align="left" alt="mathiasdragovic.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mat2dr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Outils et langages:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,7 +30,9 @@
 <br />
 <br />
 
-### Projects:
+### Mes projets les plus récents :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mat2dr&repo=DragovicMathias_P3_30072021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://https://github.com/Mat2dr/DragovicMathias_P3_30072021)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mat2dr&repo=DragovicMathias_P2_01062021&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mat2dr/DragovicMathias_P2_01062021)
 
