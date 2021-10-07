@@ -2,10 +2,10 @@
 
 ## Laissez-moi vous parler de moi grâce à 4 emojis :
 
-- 🌱 Je suis etudiant chez Openclassrooms en développement Front-end!!
-- 👯 À la recherche d'une alternance
+- 🌱 Je suis étudiant chez Openclassrooms en développement Front-end!!
+- 👯 À la recherche d'une alternance.
 - 🥅 Goals pour 2021: Faire plus de projets et partager sur Github.
-- ⚡ Fun fact: J'ai d'autre passions comme la photographie, filmmaking...
+- ⚡ Fun fact: J'ai d'autres passions comme la photographie, filmmaking...
 
 
 ### Se connecter :
