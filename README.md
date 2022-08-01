@@ -3,7 +3,7 @@
 ## Laissez-moi vous parler de moi grâce à 4 emojis :
 
 - 🌱 Je suis étudiant chez Openclassrooms en développement Front-end!!
-- 👯 À la recherche d'une alternance.
+- 👯 En alternance chez @Tibase.
 - 🥅 Goals pour 2021: Faire plus de projets et partager sur Github.
 - ⚡ Fun fact: J'ai d'autres passions comme la photographie, filmmaking...
 
