@@ -5,8 +5,8 @@
 
 ### Contact me:
 
-[Portfolio>][website]
-[LinkedIn>][linkedin]
+[Portfolio][website]
+[LinkedIn][linkedin]
 
 <br />
 <br />
