@@ -1,6 +1,6 @@
 ### Hello! I'm Mathias - [See my work here][website] 👋
 
-- 🌱 A front-end developer !
+- 🌱 A passionate front-end developer !
 - 👯 Working @Tibase.
 
 ### Contact me:
